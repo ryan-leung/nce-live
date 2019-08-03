@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/nce-live/static/css/main.f803dae5.chunk.css",
-    "main.js": "/nce-live/static/js/main.fbc4d7cc.chunk.js",
+    "main.js": "/nce-live/static/js/main.8acb5e17.chunk.js",
     "runtime~main.js": "/nce-live/static/js/runtime~main.005b04d8.js",
     "static/js/2.008a4630.chunk.js": "/nce-live/static/js/2.008a4630.chunk.js",
     "index.html": "/nce-live/index.html",
-    "precache-manifest.63474d42b37db258c563ba03ceb7f5b6.js": "/nce-live/precache-manifest.63474d42b37db258c563ba03ceb7f5b6.js",
+    "precache-manifest.78976a4ad743183bb9759047a7f0fed3.js": "/nce-live/precache-manifest.78976a4ad743183bb9759047a7f0fed3.js",
     "service-worker.js": "/nce-live/service-worker.js"
   }
 }
